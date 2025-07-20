@@ -5,6 +5,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
+    "vercelTrigger": "build-2025-07-20",
     "start": "next start",
     "lint": "next lint"
   },
@@ -28,3 +29,6 @@
     "typescript": "^5"
   }
 }
+
+
+
